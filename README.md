@@ -1,3 +1,5 @@
 # Super-Mario-using Proximal Policy Optimization (PPO)
-![Alt Text](https://github.com/Rahul-Choudhary-3614/Super-Mario-/blob/main/results/test_0.mp4)
-![Alt Text](https://github.com/Rahul-Choudhary-3614/Super-Mario-/blob/main/results/test_1.mp4)
+
+![Alt Text](https://j.gifs.com/jZXwr5.gif)
+
+![Alt Text](https://j.gifs.com/yoq4NW.gif)
